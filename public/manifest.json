@@ -1,0 +1,17 @@
+{
+  "name": "Akash Gautam - Full Stack Developer Portfolio",
+  "short_name": "Akash Gautam",
+  "description": "Modern developer portfolio showcasing full stack development skills and projects",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#3b82f6",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ]
+}
