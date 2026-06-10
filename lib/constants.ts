@@ -6,7 +6,7 @@ export const SITE_CONFIG = {
   url: "https://akashgautam.dev",
   email: "akashgautam5411@example.com",
   phone: "+91 6263331073",
-  location: "Bhopal, Madhya Pradesh, India",
+  location: "Satna, Madhya Pradesh, India",
 };
 
 export const NAVIGATION = [

@@ -5,7 +5,7 @@ A modern, responsive, and highly interactive developer portfolio website built w
 
 # Live Demo
 
-[Porfolio](https://portfolio-pi-wine-03tkhgxwlw.vercel.app/)
+[Porfolio](https://portfolio-akash-gautam.vercel.app/)
 
 ## ✨ Features
 
@@ -47,7 +47,7 @@ cp .env.example .env.local
 npm run dev
 ```
 
-5. Open [Porfolio](https://portfolio-pi-wine-03tkhgxwlw.vercel.app/) in your browser
+5. Open [Porfolio](https://portfolio-akash-gautam.vercel.app/) in your browser
 
 ## 🛠️ Tech Stack
 
