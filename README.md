@@ -126,9 +126,9 @@ MIT License - feel free to use this for your own portfolio!
 
 ## 👤 Contact
 
-- GitHub: [@akashgautam](https://github.com)
-- LinkedIn: [Akash Gautam](https://linkedin.com)
-- Email: akash@example.com
+- GitHub: [Akash Gautam](https://github.com/AkashGautam-27)
+- LinkedIn: [Akash Gautam](https://linkedin.com/in/akash-gautam-18933a3a3)
+- Email: [Akash Gautam](akashgautam5411@gmail.com)
 
 ---
 
